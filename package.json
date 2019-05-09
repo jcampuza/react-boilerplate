@@ -5,6 +5,7 @@
   "dependencies": {
     "@types/react": "^16.8.16",
     "@types/react-dom": "^16.8.4",
+    "@types/react-native": "^0.57.53",
     "axios": "^0.18.0",
     "immer": "^3.1.1",
     "mobx": "^5.9.4",
